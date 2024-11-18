@@ -1,59 +1,67 @@
-# 👋 Hi, I'm Nitin!
-
-Welcome to my GitHub profile! I'm an enthusiastic developer passionate about **Python, Android Development, Machine Learning, and Web Technologies**. With a knack for learning and creating, I strive to solve problems and build meaningful projects.
-
----
-
-## 🚀 About Me
-- 🎓 **Student** at GP Barh, specializing in **AI & ML**.
-- 💻 Currently working on **Android apps** and **backend integration**.
-- 🧠 Exploring **complex Python logic** and sharpening my **critical thinking skills**.
-- 🌟 Interested in **creating engaging YouTube content** to share tech knowledge.
+# 👋 Hi, I'm Nitin!  
+Welcome to my GitHub profile!  
+I'm a passionate **developer and creator** specializing in **Python, Android Development, and Web Technologies**. I enjoy solving real-world problems through code and sharing knowledge with the community.  
 
 ---
 
-## 🛠️ Skills
-- **Programming Languages**: Python, Java, PHP, SQL
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: PHP, MySQL
-- **Mobile Development**: Android (Java), Flutter (Beginner)
-- **Version Control**: Git
-- **Others**: BaaS solutions, Razorpay integration
+## 🚀 About Me  
+- 🎓 **Student** at **GP Barh**, specializing in **AI & ML**.  
+- 💻 Building innovative apps and solving challenges with **technology**.  
+- 🧠 On a mission to master **complex Python logic** and sharpen **critical thinking skills**.  
+- ✍️ Authoring an e-book: *"Mastering Data Structures & Algorithms: From Beginner to Expert"*.  
+- 🎥 Aspiring **YouTuber**, creating engaging tech content.  
 
 ---
 
-## 🌱 What I'm Learning
-- Advanced **Flutter** for cross-platform app development
-- Complex **data structures and algorithms**
-- Building scalable **Android apps** with **backend systems**
+## 🌟 Highlights  
+- **Inside Mark**: Attendance management app — Passed the first approval round with **SBTE members**.  
+- **E-commerce Startup**: An app to connect customers with shopkeepers, offering discounts and seamless transactions.  
+- **Neuro Pulse**: AI-powered personalized learning platform for students, developed for the **Gemini API Developer Competition**.  
 
 ---
 
-## 📈 Projects
+## 🛠️ Skills  
+### 🧑‍💻 Programming Languages  
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)  
+![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java)  
+![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat&logo=php)  
+![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat&logo=sqlite)  
 
-### 🔧 Current Projects
-- **Inside Mark**: Attendance management system (Pitching to SBTE members).
-- **E-commerce Startup**: Connecting customers to shopkeepers with real-time transactions and discounts.
-- **Neuro Pulse**: AI-powered personalized learning platform for students (for Gemini API Developer Competition).
+### 🌐 Web Development  
+![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)  
+![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)  
 
-### 🛠️ Tools and Technologies
-- **CloudPanel**: Managing VPS for deployment.
-- **Gunicorn**: Hosting Flask applications.
-- **Manim Library**: Creating educational animations.
+### 📱 Mobile Development  
+![Android](https://img.shields.io/badge/-Android-green?style=flat&logo=android)  
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter)  
+
+### 📂 Backend & Tools  
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql)  
+![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git)  
+![CloudPanel](https://img.shields.io/badge/-CloudPanel-lightblue?style=flat&logo=cloudflare)  
 
 ---
 
-## 💡 Let's Connect!
-- 🌐 **Portfolio**: [https://turbocampuspro.com/](#)
-- 📸 **Instagram**: [https://www.instagram.com/nitin_kumar_2023/](#)
-- 📬 **Email**: [nitinkumar30102006@gmail.com](#)
+## 🌱 What I'm Learning  
+- Advanced **Flutter** for cross-platform app development.  
+- Scalable **backend integration** for mobile apps.  
+- Complex **data structures and algorithms**.  
 
 ---
 
-Thank you for visiting my profile! Feel free to explore my repositories, and don’t hesitate to reach out for collaborations or discussions. 😊
+## 📫 Connect With Me  
+- 🌐 **Portfolio**: [TurboCampusPro](https://turbocampuspro.com/)  
+- 📸 **Instagram**: [@nitin_kumar_2023](https://www.instagram.com/nitin_kumar_2023/)  
+- 📬 **Email**: [nitinkumar30102006@gmail.com](mailto:nitinkumar30102006@gmail.com)  
 
+---
 
-<!---
-NitinKumar2024/NitinKumar2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📈 GitHub Stats  
+![Nitin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitinkumar2024&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkumar2024&layout=compact&theme=radical)  
+
+---
+
+🌟 *"Every great idea starts with a spark of curiosity!"*  
+Feel free to explore my repositories and connect for collaborations or discussions! 🚀
