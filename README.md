@@ -8,7 +8,6 @@ I'm a passionate **developer and creator** specializing in **Python, Android Dev
 - 🎓 **Student** at **GP Barh**, specializing in **AI & ML**.  
 - 💻 Building innovative apps and solving challenges with **technology**.  
 - 🧠 On a mission to master **complex Python logic** and sharpen **critical thinking skills**.  
-- ✍️ Authoring an e-book: *"Mastering Data Structures & Algorithms: From Beginner to Expert"*.  
 - 🎥 Aspiring **YouTuber**, creating engaging tech content.  
 
 ---
