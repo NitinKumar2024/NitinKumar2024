@@ -42,13 +42,6 @@ I'm a passionate **developer and creator** specializing in **Python, Android Dev
 
 ---
 
-## 🌱 What I'm Learning  
-- Advanced **Flutter** for cross-platform app development.  
-- Scalable **backend integration** for mobile apps.  
-- Complex **data structures and algorithms**.  
-
----
-
 ## 📫 Connect With Me  
 - 🌐 **Portfolio**: [TurboCampusPro](https://turbocampuspro.com/)  
 - 📸 **Instagram**: [@nitin_kumar_2023](https://www.instagram.com/nitin_kumar_2023/)  
