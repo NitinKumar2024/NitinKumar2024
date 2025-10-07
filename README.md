@@ -20,7 +20,7 @@ I’m passionate about building intelligent, scalable, and impactful software so
 An attendance management system that replaces manual work with one-click automation for educational institutions.  
 
 ### 🧠 Neuro Pulse  
-[Neuro Pulse](https://cognifyai.turbocampuspro.com) — an AI-powered learning platform offering interactive courses, quizzes, and personalized study experiences.  
+an AI-powered learning platform offering interactive courses, quizzes, and personalized study experiences.  
 
 ### 💡 Smart Edu AI  
 An intelligent education app that brings adaptive AI learning and real-time analytics to enhance student performance.  
@@ -41,12 +41,6 @@ An intelligent education app that brings adaptive AI learning and real-time anal
 - Creating projects that strengthen the **tech culture in my college** through innovation and collaboration.  
 
 ---
-
-## 📫 Connect With Me  
-- 🌐 [LinkedIn](#) *(Add your link)*  
-- 💬 [Twitter / X](#) *(Optional)*  
-- 📧 **contact@nitinkumar.dev** *(Replace with your actual email)*  
-- 💻 [Portfolio / Website](#) *(Optional)*  
 
 ---
 
