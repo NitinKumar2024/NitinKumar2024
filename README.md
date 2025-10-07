@@ -20,7 +20,7 @@ I’m passionate about building intelligent, scalable, and impactful software so
 An attendance management system that replaces manual work with one-click automation for educational institutions.  
 
 ### 🧠 Neuro Pulse  
-an AI-powered learning platform offering interactive courses, quizzes, and personalized study experiences.  
+An AI-powered learning platform offering interactive courses, quizzes, and personalized study experiences.  
 
 ### 💡 Smart Edu AI  
 An intelligent education app that brings adaptive AI learning and real-time analytics to enhance student performance.  
