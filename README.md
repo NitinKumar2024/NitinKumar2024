@@ -1,47 +1,50 @@
-# 👋 Hi, I'm Nitin Kumar  
+# Hi there, I'm a GenAI & SaaS Builder! 👋
 
-🚀 **AI & Software Developer | Flutter & Android Developer | Backend Engineer (FastAPI & PHP)**  
+### 🚀 "Start Before You're Ready."
 
-I’m passionate about building intelligent, scalable, and impactful software solutions. My work focuses on combining **Artificial Intelligence**, **software engineering**, and **education technology** to create products that solve real-world problems.
+I am a **2nd Year B.Tech AI/ML Student** (Lateral Entry/Diploma Holder) from Bihar, India. I don't just study code; I build systems. My focus is on **Generative AI**, **Autonomous Agents**, and **Scalable SaaS Architectures**.
 
----
-
-## 🧠 About Me  
-- 💻 Experienced in **Android Development (Java)**, **Backend Development (FastAPI, PHP)**, and **AI-based systems**.  
-- 🧩 Skilled in **database design**, **system architecture**, and **end-to-end app development**.  
-- 🌱 Currently exploring **Laravel**, **PyTorch**, and **Generative AI**.  
-- 🎯 Strong interest in **AI-driven education**, **automation**, and **software entrepreneurship**.  
+Currently, I am balancing academic excellence with startup execution, aiming to crack **GSoC 2026** while building real-world solutions.
 
 ---
 
-## 🚀 Featured Projects  
+### 🛠️ Tech Stack
 
-### 🎯 Inside Mark  
-An attendance management system that replaces manual work with one-click automation for educational institutions.  
-
-### 🧠 Neuro Pulse  
-An AI-powered learning platform offering interactive courses, quizzes, and personalized study experiences.  
-
-### 💡 Smart Edu AI  
-An intelligent education app that brings adaptive AI learning and real-time analytics to enhance student performance.  
+* **Languages:** Python, Java, C, JavaScript, PHP, SQL
+* **GenAI & LLMs:** Function Calling, Model Context Protocol (MCP), Agents, SLM Fine-tuning
+* **Backend & DB:** PostgreSQL, MySQL, FastAPI, REST APIs
+* **Core CS:** Data Structures & Algorithms, OS, DBMS
 
 ---
 
-## ⚙️ Tech Stack  
-**Languages:** Java, Python, PHP, JavaScript, SQL, HTML, CSS  
-**Frameworks & Tools:** FastAPI, Flutter, Android Studio, Laravel (Learning)  
-**Databases:** MySQL  
-**Other Tools:** Git, VS Code, Linux (Ubuntu), Windows  
+### 🔭 What I'm Building Now
+
+* **🎓 College Automation System:** A comprehensive SaaS platform to digitize college workflows. Building with a focus on scalable **PostgreSQL** architecture and **Python** automation.
+* **🤖 Custom Small Language Models (SLMs):** Experimenting with training/fine-tuning SLMs on local hardware (following the DeepMind curriculum).
+* **🔒 Secure File Sharing SaaS:** A PHP/JS-based platform featuring end-to-end encryption for secure data transfer.
 
 ---
 
-## 🎯 Current Focus  
-- Building an **AI-based mock interview platform** using LLMs and speech technologies.  
-- Developing **Generative AI models** (CNN / UNet / Diffusion) for advanced applications.  
-- Creating projects that strengthen the **tech culture in my college** through innovation and collaboration.  
+### ⚡ Principles I Live By
+
+> "Create More than You Consume."
+> "See It Through to the End."
+> "Try the Hard Thing."
 
 ---
 
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nitinkumar2024&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkumar2024&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
+
 ---
 
-⭐ *“Building intelligent solutions that make learning and life smarter.”*  
+### 📫 Connect With Me
+
+* **Goal:** Financial Independence & Engineering Excellence before 25.
+* **Focus:** Cracking GSoC 2026 & Scaling my Startup.
+
+[LinkedIn](https://www.linkedin.com/in/nitin-kumar-510559255/) • [Email](mailto:nitinkumar30102006@gmail.com)
