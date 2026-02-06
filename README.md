@@ -33,12 +33,12 @@ Currently, I am balancing academic excellence with startup execution, aiming to 
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitinkumar2024&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkumar2024&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitinkumar2024&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkumar2024&layout=compact&theme=radical&hide_border=true&cache_seconds=21600)
+
 
 ---
 
