@@ -1,54 +1,59 @@
 # Hi there, I'm Nitin! 👋
-### 🚀 Building Sovereign Identity & AI Agents.
+### 🚀 Core Machine Learning & Algorithmic Systems Engineer
 
 > "Start Before You're Ready."
 
-I am an **AI Engineer & Full-Stack Developer** from India. I don't just write code; I architect systems. My focus is on **Sovereign Authentication**, **Small Language Models (SLMs)**, and **Scalable SaaS**.
+I am an **AI/ML Engineering Student** from India focused on the mathematical and structural primitives of intelligent systems. I specialize in engineering deterministic data workflows, processing high-throughput vector matrices, and analyzing foundational language model structures. 
 
-Currently, I am an **Open Source Contributor** at **[KathiraveluLab](https://github.com/KathiraveluLab)** and building my own HealthTech startup.
-
----
-
-### ⚡ Highlights
-* **Contributor:** [KathiraveluLab/Beehive](https://github.com/KathiraveluLab/Beehive) (GSoC Org) - *Focused on Auth Architecture & Security.*
-* **Founder:** Building **MediGuide AI** (Sovereign Identity + Medical LLM).
-* **Goal:** Cracking **GSoC 2026** & Engineering Excellence.
+Currently training for advanced theoretical research tracks while actively contributing to open-source systems architecture.
 
 ---
 
-### 🛠️ Tech Stack
-
-* **Core:** Python (Advanced), Java, SQL
-* **System Architecture:** **FastAPI**, **Flask**, **JWT (Auth)**, REST APIs
-* **AI & LLMs:** Fine-tuning SLMs (T5/Llama), LangChain, OCR, Transformers
-* **Databases:** PostgreSQL, MongoDB (NoSQL Design)
+### ⚡ Critical Benchmarks & Milestones
+* **National Honors:** Successfully cleared the highly competitive **ISRO Technical Assistant (Computer Science)** national written examination.
+* **Academic Track:** Preparing for **GATE DA (Data Science & AI)** with a long-term goal of executing advanced research at **IISc Bangalore**.
+* **Open Source Contributor:** Actively contributing to **[KathiraveluLab/Beehive](https://github.com/KathiraveluLab/Beehive)** — optimizing authentication pipelines and health monitoring endpoints.
 
 ---
 
-### 🔭 What I'm Building Now
+### 🛠️ Mathematical & Technical Skill Matrix
 
-* **🛡️ MediGuide AI (HealthTech SaaS):**
-    * A sovereign-identity compliant platform for medical report analysis.
-    * *Tech:* FastAPI, JWT Authentication, Custom Fine-Tuned LLM, React.
-    * *Status:* **Production Ready (MVP).**
+* **Core Mathematics:** Linear Algebra (Matrix Decomposition), Probability Distributions, Statistical Optimization
+* **Machine Learning & Theory:** Supervised/Unsupervised Learning, Sequential Architectures, Transformer Attention Mechanics, Vector Similarity Frameworks
+* **Languages & Execution:** Python, Java, SQL, PHP, C, TensorFlow, Scikit-learn, NumPy, Pandas
+* **Infrastructure Tools:** Linux CLI, Git/GitHub, Vector Databases, MySQL, MongoDB
 
-* **🐝 Beehive (Open Source Contribution):**
-    * Refactoring the authentication layer and implementing health monitoring endpoints for the University of Alaska's research platform.
+---
+
+### 🔭 Production & Pipeline Showcases
+
+* **🛡️ MediGuide AI — Multimodal Optimization Pipeline** * Built an end-to-end numerical ingestion engine that parses complex multimodal medical datasets for structured text reports.
+    * Engineered algorithmic token-tracking wrappers and exponential backoff states to intercept and bypass upstream 429 rate limits.
+    * *Tech:* FastAPI, Gemini API, Python, REST APIs.
+
+* **🐝 Beehive (University of Alaska Research Infrastructure)**
+    * Refactoring core distributed authentication layers and deploying system status monitoring telemetry nodes.
     * *Tech:* Flask, MongoDB, Docker.
 
-* **🎓 SmartEduAI:**
-    * Digitizing college workflows with scalable PostgreSQL architecture.
+* **🧠 NeuroPulse AI — Adaptive Recommendation Engine**
+    * Transformed raw student performance log arrays into structural multi-dimensional vector matrices to compute dynamic difficulty progression scales using cosine similarity math.
+    * *Tech:* Python, Vector Embeddings, Mathematical Similarity Scoring, NLP.
+
+---
+
+### 📚 Validated Certifications
+* **NPTEL / SWAYAM:** Deep Learning for Natural Language Processing — Theoretical mastery of sequence models and attention weights.
+* **Google Cloud Specializations:** Attention Mechanism (ID: 15563771), Large Language Models (ID: 8305888), Introduction to Image Generation (ID: 15426501).
 
 ---
 
 ### ⚡ Principles
 
 > "Create More than You Consume."
-> "Code is Currency."
 > "Try the Hard Thing."
 
 ---
 
-### 📫 Connect With Me
+### 📫 Connect Matrix
 
 [LinkedIn](https://www.linkedin.com/in/nitin-kumar-510559255/) • [Email](mailto:nitinkumar30102006@gmail.com)
